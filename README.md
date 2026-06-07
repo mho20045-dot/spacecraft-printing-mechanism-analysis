@@ -389,19 +389,22 @@ Dynamic motion videos were prepared to show the behavior of the main robotic uni
 
 This MP4 video shows the dynamic motion behavior of the Printing Robot Arm during the manufacturing process.
 
-https://github.com/user-attachments/assets/YOUR-PRINTING-ROBOT-VIDEO-LINK
+
+https://github.com/user-attachments/assets/7754957a-a428-4f82-8855-f7ec82e3ea7b
 
 ### Machining and Welding Arm Motion Video
 
 This MP4 video shows the motion behavior of the Machining and Welding Arm during machining and welding operations.
 
-https://github.com/user-attachments/assets/YOUR-MACHINING-WELDING-VIDEO-LINK
+
+https://github.com/user-attachments/assets/132a4128-8fed-4b1a-a0e6-10440a6acaea
 
 ### Crane with Magnetic Clamps Motion Video
 
 This MP4 video shows the crane motion and transfer behavior using magnetic clamps.
 
-https://github.com/user-attachments/assets/YOUR-CRANE-VIDEO-LINK
+
+https://github.com/user-attachments/assets/02c9b610-18e3-496f-a7bc-2e0fd86461d8
 
 ---
 
@@ -608,15 +611,23 @@ These images show the DOF analysis of the main mechanisms.
 
 #### Printing Robot Arm Motion Video
 
-https://github.com/user-attachments/assets/YOUR-PRINTING-ROBOT-VIDEO-LINK
+
+
+https://github.com/user-attachments/assets/3deb20e3-f9bb-4187-85e7-237834486f3e
+
 
 #### Machining and Welding Arm Motion Video
 
-https://github.com/user-attachments/assets/YOUR-MACHINING-WELDING-VIDEO-LINK
+
+
+https://github.com/user-attachments/assets/418fe38a-ed63-47fd-94bb-744b8e57a72d
+
 
 #### Crane with Magnetic Clamps Motion Video
 
-https://github.com/user-attachments/assets/YOUR-CRANE-VIDEO-LINK
+
+https://github.com/user-attachments/assets/11470fba-f0a2-4bdd-93da-3b38d6ec6609
+
 
 ---
 
